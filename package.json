@@ -2,9 +2,10 @@
   "name": "javier-jhonivand-node-repo",
   "version": "1.0.0",
   "description": "This is a test node project.",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
   },
   "author": "Jhon Ivan Javier",
   "license": "MIT"
